@@ -17,6 +17,6 @@
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 
 ### Other Skills
-<img src="https://img.shields.io/badge/Machine_Learning-EA1D2C?&logoColor=white" /> <img src="https://img.shields.io/badge/AI-100000?&logoColor=white" /> <img src="https://img.shields.io/badge/Data_Structures-430098?&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-00C7B7?&logoColor=white" /> <img src="https://img.shields.io/badge/Numpy-593D88?&logoColor=white" /> <img src="https://img.shields.io/badge/Data_Visualization-CA4245?&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine_Learning-EA1D2C?&style=for-the-badge&logo=TensorFlow&logoColor=white" /> <img src="https://img.shields.io/badge/AI-100000?&logoColor=white" /> <img src="https://img.shields.io/badge/Data_Structures-430098?&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-00C7B7?&logoColor=white" /> <img src="https://img.shields.io/badge/Numpy-593D88?&logoColor=white" /> <img src="https://img.shields.io/badge/Data_Visualization-CA4245?&logoColor=white" />
 
 ## Email me at <a href="mailto:saadik-d@hotmail.com">saadik-d@hotmail.com</a>
