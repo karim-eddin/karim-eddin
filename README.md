@@ -1,5 +1,5 @@
 # Hi there 👋 I am Saad Karim Eddin
-### Pythonista | Tech Enthusiast
+###  | Tech Enthusiast
 
 ##### Third year Mathematics and Economics student looking for opportunities in technology industries
 
