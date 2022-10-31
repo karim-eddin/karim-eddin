@@ -1,7 +1,7 @@
 # Hi there 👋 I am Saad Karim Eddin
 ###  | Tech Enthusiast
 
-##### Third year Mathematics and Economics student looking for opportunities in technology industries
+##### MSc(Masters) Computer Science student looking for opportunities in technology industries
 
 ### My Expertise
 
