@@ -20,4 +20,4 @@
 ### Other Skills
 <img src="https://img.shields.io/badge/Machine_Learning-EA1D2C?&style=for-the-badge&logo=TensorFlow&logoColor=white" /> <img src="https://img.shields.io/badge/AI-22314E?&style=for-the-badge&logo=Probot&logoColor=white" /> <img src="https://img.shields.io/badge/Data_Structures-430098?&style=for-the-badge&logo=DataCamp&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?&style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-593D88?style=for-the-badge&logo=NumPy&logoColor=white" /> <img src="https://img.shields.io/badge/Data_Visualization-CA4245?style=for-the-badge&logo=Tableau&logoColor=white" />
 
-## Email me at <a href="mailto:saadik-d@hotmail.com">saadik-d@hotmail.com</a>
+## Email me at <a href="mailto:saadik-d@hotmail.com">saadk-d@hotmail.com</a>
